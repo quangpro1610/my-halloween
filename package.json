@@ -1,0 +1,26 @@
+{
+  "name": "my-halloween",
+  "version": "1.0.0",
+  "description": "- Responsive Halloween Website Using HTML, CSS & JavaScript. - Contains animations when scrolling. - It has three color designs (green, red and black) - Smooth scrolling in each section. - Developed first with the Mobile First methodology, then for desktop. - Compatible with all mobile devices and with a beautiful and pleasant user interface.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node assets/js/server.js",
+    "client": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BryanTorreblanca00/my-halloween.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BryanTorreblanca00/my-halloween/issues"
+  },
+  "homepage": "https://github.com/BryanTorreblanca00/my-halloween#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
