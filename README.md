@@ -7,6 +7,7 @@
 ### Responsive Halloween Website 🎃
 
 - Responsive Halloween Website that allows you to purchase Halloween items.
+- Made with Javascript, HTML, CSS, Expressjs, Nodejs.
 - Meant to showcase responsive web design which can adjust accordingly based on screen size, platform, and orientation.
 - Contains animations when scrolling.
 - It has three color designs (green, red and black)
@@ -21,7 +22,7 @@
 1. Fork the repository and then navigate to your fork of the repository.
 2. Clone it locally
    git clone "https://github.com/YOUR-USERNAME/[Project Name]
-3. Have a source code editor such as Visual Studio Code downloaded.
+3. Have a source code editor such as Visual Studio Code downloaded
 4. Install NodeJs for your platform with this link:
    https://nodejs.org/en/downloadgit
 5. Open the project in Visual Studio Code.
